@@ -2,6 +2,8 @@ import requests
 import os
 from dotenv import load_dotenv
 
+load_dotenv()
+
 SERVER = 'http://geocode-maps.yandex.ru/1.x/'
 
 
