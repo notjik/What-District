@@ -1,4 +1,4 @@
-###### whatdistrict
+###### what-district
 
 <details><summary> 
 <strong>English</strong>
@@ -8,7 +8,7 @@
 
 ### The task of the second year of Yandex Lyceum
 
-#### To work with the program, you need to get API keys:
+#### To work with the program, you need to get API key:
 * [Geocoder](https://yandex.com/dev/maps/geocoder/)
 
 ##### Interaction with the program is performed via the command line. 
@@ -28,7 +28,7 @@ python main.py Moscow Moscow Kremlin
 
 ### Задание второго курса Яндекс Лицея
 
-#### Для работы с программой вам необходимо получить 2 API ключа: 
+#### Для работы с программой вам необходимо получить API ключ: 
 * [Геокодер](https://yandex.ru/dev/maps/geocoder/)
 
 ##### Взаимодействие с программой осуществляется через командную строку. 
